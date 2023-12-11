@@ -78,7 +78,7 @@ namespace Inventory
                     }
                 }
 
-                int itemIdToCheck = int.Parse(suppID.Text);
+                int itemIdToCheck = int.Parse(itemID.Text);
                 string checkItemQuery = "SELECT COUNT(*) FROM [Item] WHERE itemId = @itemID;";
                 using (SqlCommand checkItemCommand = new SqlCommand(checkItemQuery, conn))
                 {
