@@ -1,0 +1,29 @@
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.Form1.resources
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.exe
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.pdb
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.Form2.resources
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.loginForm.resources
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.accountForm.resources
+D:\CODING\PRACTICE\WINDOWS FORM\ACP FINAL\Inventory\Inventory\obj\Debug\Inventory.customerForm.resources
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.loginForm.resources
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.accountForm.resources
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.customerForm.resources
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.stockForm.resources
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.Home.resources
+C:\Users\Angelo Torano\OneDrive\Desktop\Inventory\Inventory\obj\Debug\Inventory.Item.resources
