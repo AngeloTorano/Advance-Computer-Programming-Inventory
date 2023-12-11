@@ -29,6 +29,13 @@ namespace Inventory
 
         private void btn_saveuser_Click(object sender, EventArgs e)
         {
+
+             if (string.IsNullOrWhiteSpace(name.Text) || string.IsNullOrWhiteSpace(username.Text) || string.IsNullOrWhiteSpace(password.Text) || string.IsNullOrWhiteSpace(type.Text))
+             {
+                 MessageBox.Show("Please fill in all the fields.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                 return;
+             }
+                    
             try
             {
                 SqlConnection conn = new SqlConnection(connection.conn());
@@ -96,6 +103,7 @@ namespace Inventory
             username.Enabled = false;
             password.Enabled = false;
             type.Enabled = false;
+            btn_saveuser.Enabled = false;
         }
         public void enableNewAccount()
         {
@@ -103,6 +111,7 @@ namespace Inventory
             username.Enabled = true;
             password.Enabled = true;
             type.Enabled = true;
+            btn_saveuser.Enabled = true;
         }
 
         private void accountForm_Load(object sender, EventArgs e)
