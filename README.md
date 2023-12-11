@@ -13,5 +13,7 @@ compromised product quality.
 
 # Member:
  Arguelles, Reymark,
+ 
  Hiwatig, Christian Luis,
+ 
  Torano, Angelo
